@@ -1,0 +1,8 @@
+README.md
+licence
+setup.py
+winequality.egg-info/PKG-INFO
+winequality.egg-info/SOURCES.txt
+winequality.egg-info/dependency_links.txt
+winequality.egg-info/requires.txt
+winequality.egg-info/top_level.txt
